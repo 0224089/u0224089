@@ -3,7 +3,7 @@
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
 ### Built exclusively for Markdown ###
-dfgdfgxcvbvcwewqrt
+
 Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.
 
 Give them a try:
